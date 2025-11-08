@@ -1,0 +1,51 @@
+Date,Day,Branch,Drink,Size,Quantity,Price,Total_Sale,Customer_Rating
+2025-10-01,Wednesday,The Bean Spot,Latte,Small,5,180,900,4.2
+2025-10-02,Thursday,Brew Bliss,Flat White,Large,1,150,150,4.2
+2025-10-03,Friday,Latte Lounge,Americano,Small,5,180,900,3.4
+2025-10-04,Saturday,Brew Bliss,Americano,Small,4,150,600,3.9
+2025-10-05,Sunday,The Bean Spot,Americano,Large,2,120,240,4.0
+2025-10-06,Monday,The Bean Spot,Americano,Small,4,200,800,4.4
+2025-10-07,Tuesday,Brew Bliss,Latte,Large,2,120,240,4.1
+2025-10-08,Wednesday,The Bean Spot,Latte,Large,3,200,600,4.5
+2025-10-09,Thursday,Cafe Aroma,Latte,Medium,3,150,450,3.5
+2025-10-10,Friday,Cafe Aroma,Americano,Small,1,200,200,3.3
+2025-10-11,Saturday,Brew Bliss,Mocha,Small,3,220,660,4.3
+2025-10-12,Sunday,Latte Lounge,Americano,Large,5,150,750,3.5
+2025-10-13,Monday,Cafe Aroma,Americano,Medium,3,150,450,4.3
+2025-10-14,Tuesday,Cafe Aroma,Espresso,Large,2,120,240,3.6
+2025-10-15,Wednesday,The Bean Spot,Latte,Medium,2,220,440,3.6
+2025-10-16,Thursday,Brew Bliss,Americano,Small,4,150,600,3.0
+2025-10-17,Friday,The Bean Spot,Americano,Large,5,120,600,3.8
+2025-10-18,Saturday,Brew Bliss,Espresso,Small,1,180,180,4.6
+2025-10-19,Sunday,Brew Bliss,Flat White,Large,4,220,880,5.0
+2025-10-20,Monday,Latte Lounge,Americano,Small,1,150,150,3.1
+2025-10-21,Tuesday,Cafe Aroma,Mocha,Large,1,150,150,3.5
+2025-10-22,Wednesday,The Bean Spot,Americano,Small,1,200,200,4.8
+2025-10-23,Thursday,Brew Bliss,Latte,Small,1,120,120,4.7
+2025-10-24,Friday,Brew Bliss,Flat White,Medium,4,120,480,4.0
+2025-10-25,Saturday,Brew Bliss,Cappuccino,Large,3,180,540,4.4
+2025-10-26,Sunday,Brew Bliss,Americano,Large,5,200,1000,4.3
+2025-10-27,Monday,Cafe Aroma,Latte,Medium,3,150,450,3.9
+2025-10-28,Tuesday,Brew Bliss,Espresso,Medium,3,120,360,4.5
+2025-10-29,Wednesday,Latte Lounge,Americano,Large,2,150,300,3.4
+2025-10-30,Thursday,Latte Lounge,Espresso,Large,3,200,600,3.9
+2025-10-31,Friday,Latte Lounge,Americano,Medium,4,200,800,4.4
+2025-11-01,Saturday,The Bean Spot,Flat White,Medium,1,120,120,3.9
+2025-11-02,Sunday,Brew Bliss,Mocha,Small,3,150,450,3.2
+2025-11-03,Monday,Latte Lounge,Espresso,Small,4,150,600,3.7
+2025-11-04,Tuesday,Latte Lounge,Flat White,Small,2,220,440,3.6
+2025-11-05,Wednesday,Cafe Aroma,Mocha,Small,3,200,600,4.4
+2025-11-06,Thursday,Brew Bliss,Cappuccino,Small,3,120,360,3.8
+2025-11-07,Friday,Brew Bliss,Americano,Medium,1,120,120,3.2
+2025-11-08,Saturday,The Bean Spot,Americano,Medium,2,200,400,3.2
+2025-11-09,Sunday,Latte Lounge,Cappuccino,Large,3,120,360,3.3
+2025-11-10,Monday,Brew Bliss,Americano,Large,5,220,1100,3.3
+2025-11-11,Tuesday,Cafe Aroma,Cappuccino,Medium,3,150,450,4.1
+2025-11-12,Wednesday,Latte Lounge,Mocha,Large,4,180,720,4.4
+2025-11-13,Thursday,Cafe Aroma,Flat White,Medium,3,220,660,4.4
+2025-11-14,Friday,The Bean Spot,Mocha,Large,5,180,900,3.0
+2025-11-15,Saturday,The Bean Spot,Flat White,Medium,2,200,400,4.7
+2025-11-16,Sunday,Brew Bliss,Americano,Medium,5,220,1100,3.7
+2025-11-17,Monday,Brew Bliss,Cappuccino,Medium,2,150,300,3.5
+2025-11-18,Tuesday,Latte Lounge,Espresso,Large,1,200,200,4.7
+2025-11-19,Wednesday,The Bean Spot,Flat White,Large,4,200,800,3.3
