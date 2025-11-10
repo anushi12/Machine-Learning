@@ -1,0 +1,16 @@
+Date,Transaction_ID,Customer_Name,Age,Gender,Item,Category,Quantity,Price,Payment_Method,Branch,Rating
+2025-10-01,T001,Arjun Mehta,25.0,M,Latte,Drink,2.0,150.0,Cash,Connaught Place,4.0
+2025-10-01,T002,Simran Kaur,31.0,F,Cappuccino,Drink,1.0,180.0,Card,Connaught Place,5.0
+2025-10-02,T003,Rahul Sharma,,M,Blueberry Muffin,Food,1.0,120.0,UPI,Saket,3.0
+2025-10-02,T004,Neha Singh,27.0,F,Espresso,Drink,1.0,,Cash,Hauz Khas,4.0
+2025-10-03,T005,Manish Gupta,45.0,M,Americano,Drink,3.0,140.0,Card,Hauz Khas,
+2025-10-03,T006,Aarti Patel,,F,Chocolate Croissant,Food,2.0,200.0,,Saket,5.0
+2025-10-04,T007,Kunal Verma,30.0,M,Mocha,Drink,1.0,190.0,UPI,Connaught Place,4.0
+2025-10-04,T008,Priya Bansal,23.0,F,Latte,Drink,1.0,150.0,Card,Saket,5.0
+2025-10-05,T009,Ritika Joshi,26.0,F,Cheese Sandwich,Food,,220.0,Cash,Hauz Khas,3.0
+2025-10-05,T010,Sameer Khan,35.0,M,Cold Brew,Drink,1.0,250.0,Card,Connaught Place,4.0
+2025-10-06,T011,Tanya Raj,,F,Mocha,Drink,1.0,190.0,UPI,Saket,
+2025-10-06,T012,Deepak Rana,29.0,M,Chocolate Cake,Food,1.0,,Card,Connaught Place,5.0
+2025-10-07,T013,Neeraj Nair,40.0,M,Espresso,Drink,2.0,100.0,Cash,Hauz Khas,3.0
+2025-10-07,T014,Megha Kapoor,28.0,F,Latte,Drink,1.0,150.0,UPI,,5.0
+2025-10-08,T015,Ashok Jain,33.0,M,Blueberry Muffin,Food,1.0,120.0,Card,Connaught Place,
