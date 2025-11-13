@@ -1,0 +1,13 @@
+Date,Day,Product,Category,Quantity,Revenue
+2025-01-01,Monday,Latte,Beverage,120.0,4800.0
+2025-01-02,Tuesday,Espresso,Beverage,100.0,4000.0
+2025-01-03,Wednesday,Cappuccino,Beverage,90.0,
+2025-01-04,Thursday,Blueberry Muffin,Food,60.0,1800.0
+2025-01-05,Friday,Chocolate Croissant,Food,75.0,2250.0
+2025-01-06,Saturday,Americano,Beverage,,3100.0
+2025-01-07,Sunday,Mocha,Beverage,85.0,3570.0
+2025-01-08,Monday,Cheesecake,Food,50.0,2000.0
+2025-01-09,Tuesday,Espresso,Beverage,95.0,3800.0
+2025-01-10,Wednesday,Latte,Beverage,110.0,4400.0
+2025-01-11,Thursday,Chocolate Croissant,Food,,1950.0
+2025-01-12,Friday,Americano,Beverage,105.0,4200.0
